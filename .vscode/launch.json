@@ -1,0 +1,36 @@
+<!DOCTYPE_javascript></!~>
+{
+    "configurations": [
+    <class: VALUE= #("[*.*]")></class>,
+    <gtm: DATA= @("{*.json}")></gtm>,
+    <href: RETURN= head("《h1》")></href>,
+    <type: STYLESHEET= viewport("[device.default]")></type>,
+    <icons: SYMBOLS= "*.gif, *.zip, *.inf, *.rar, *.b6z, *.zst, *.txt, *.sym, *.ico, *.iso, *.init, *.js, *.vsb, *.exe, *.html, *.webp, *.php, *.com, *.org, *.net, *.edu, *.gov, *.css, *.mp4, *.pdf, *.doc, *.docx, *.csv, *.xml, *.sftp, *.shtml, *.blank, .\*.ps, *.smtp, *.wolff,Wolff, *.tiff, *.obj, *.tcp, *.udp, *.bin, *.sys, *.wav, *.cmd, *.vhdx, *.vhd, *.sh, *.py, *.tex, *.cer, *.pfx",></icons>,
+    /****input: SEED= "*.regx, *.xhtml, *.#("*.*"), *.@("*.*"), *.$("*.*"), *.dl, *.async, *.msc, *.sjs, *.gif, *.zip, *.inf, *.rar, *.b6z, *.zst, *.txt, *.sym, *.ico, *.iso, *.init, *.js, *.vsb, *.exe, *.html, *.webp, *.php, *.com, *.org, *.net, *.edu, *.gov, *.css, *.mp4, *.pdf, *.doc, *.docx, *.csv, *.xml, *.sftp, *.shtml, *.blank, .\*.ps, *.smtp, *.wolff,Wolff, *.tiff, *.obj, *.tcp, *.udp, *.bin, *.sys, *.wav, *.cmd, *.vhdx, *.vhd, *.sh, *.py, *.tex, *.cer, *.pfx"****/,
+}
+
+{
+    // Use IntelliSense to learn about possible attributes,
+    
+    // Hover to view descriptions of existing attributes,
+    
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    
+    //!version: current.php= Chrome("119.0.6045/*163*/"),
+    "configurations": [
+
+        //http:HEAD="href",
+        //fwlink:472="port()"
+        //about:SEO="👀",
+        //472:CLASS="attributes",
+        {
+            //type: "query("SEO")= "👀.*",
+            //request: GET("👀")= "launch",
+            //name: "Launch Chrome against head(!*{《"👀"》})",
+            //url: "http://👀.net",
+            //config.js("{*.*}"): DO= "load.src",
+            //meta.inf: DESCRIPTION= "GET metadata from '*.inf'",
+            //div class: OBJECT= "function load.src"
+        }
+    ]
+}
